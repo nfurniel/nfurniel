@@ -18,7 +18,7 @@ Actualmente busco **prácticas profesionales**, **primeras oportunidades junior*
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 **Frontend**  
 React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind · Bootstrap · Astro  
@@ -64,4 +64,4 @@ Ver proyectos: https://github.com/nfurniel
 
 ---
 
-📌 **Disponibilidad para prácticas, roles junior y proyectos colaborativos.**
+**Disponibilidad para prácticas, roles junior y proyectos colaborativos.**
