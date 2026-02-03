@@ -5,6 +5,12 @@
 </h1>
 
 <p align="center">
+  <a href="https://personal-portfolio-chi-indol.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Portfolio_Personal-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
@@ -48,8 +54,6 @@ Actualmente busco **prácticas profesionales**, **primeras oportunidades junior*
 **E-commerce Responsive** Tienda online con carrito persistente, filtros dinámicos y diseño mobile-first.  
 *HTML · CSS · JavaScript*
 
-Ver proyectos: [github.com/nfurniel](https://github.com/nfurniel)
-
 ---
 
 ## Formación
@@ -61,6 +65,7 @@ Ver proyectos: [github.com/nfurniel](https://github.com/nfurniel)
 
 ## Contacto
 
+- **Portfolio:** [personal-portfolio.vercel.app](https://personal-portfolio-chi-indol.vercel.app/) 🌐
 - **LinkedIn:** [nicolas-furnieles](https://www.linkedin.com/in/nicolas-furnieles-0b9117347/)  
 - **Email:** nicolas.furnieles@live.u-tad.com  
 - **GitHub:** [nfurniel](https://github.com/nfurniel)
