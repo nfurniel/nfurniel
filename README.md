@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://personal-portfolio-chi-indol.vercel.app/" target="_blank">
+  <a href="https://nfurniel.com" target="_blank">
     <img src="https://img.shields.io/badge/Ver_Portfolio_Personal-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
 </p>
@@ -65,7 +65,7 @@ Actualmente busco **prácticas profesionales**, **primeras oportunidades junior*
 
 ## Contacto
 
-- **Portfolio:** [personal-portfolio.vercel.app](https://personal-portfolio-chi-indol.vercel.app/) 🌐
+- **Portfolio:** [personal-portfolio.vercel.app](https://nfurniel.com) 🌐
 - **LinkedIn:** [nicolas-furnieles](https://www.linkedin.com/in/nicolas-furnieles-0b9117347/)  
 - **Email:** nicolas.furnieles@live.u-tad.com  
 - **GitHub:** [nfurniel](https://github.com/nfurniel)
